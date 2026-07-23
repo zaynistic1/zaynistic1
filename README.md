@@ -1,17 +1,16 @@
-[README3 (2).md](https://github.com/user-attachments/files/30304710/README3.2.md)
 <h1 align="center">yo, it's Zain 👋</h1>
 
-<OPTION 1: animated typing effect (active) -->
+<OPTION 1: animated typing effect (active) >
 <p align="center">
-  <! -- img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Finance+guy+with+his+tech+(%E2%B8%9D%E2%B8%9D%E2%B8%9D%3E%EF%B9%8F%3C%E2%B8%9D%E2%B8%9D%E2%B8%9D)" alt="Finance guy with his tech" -->
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Finance+guy+with+his+tech+(%E2%B8%9D%E2%B8%9D%E2%B8%9D%3E%EF%B9%8F%3C%E2%B8%9D%E2%B8%9D%E2%B8%9D)" alt="Finance guy with his tech" 
 </p>
 
 <!-- OPTION 3: badge pill (swap in by uncommenting this and commenting out Option 1 above)
 <p align="center">
   <img src="https://img.shields.io/badge/Finance%20guy%20with%20his%20tech-%20(%E2%B8%9D%E2%B8%9D%E2%B8%9D%3E%EF%B9%8F%3C%E2%B8%9D%E2%B8%9D%E2%B8%9D)-blueviolet?style=for-the-badge" alt="Finance guy with his tech" />
+  
 </p>
 -->
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zaynistic1&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
@@ -48,4 +47,4 @@
   </a>
 </p>
 
-<p align="center"><i>spreadsheets by day, SERPs by night 🇵🇰</i></p>
+<p align="center"><i>Productivity by day, Side Quests by night 🇵🇰</i></p>
