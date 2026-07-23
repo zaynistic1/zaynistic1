@@ -47,4 +47,4 @@
   </a>
 </p>
 
-<p align="center"><i>Productivity by day, Side Quests by night 🇵🇰</i></p>
+<p align="center"><i>Productivity by day, Side Quests by night </i></p>
